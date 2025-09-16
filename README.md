@@ -7,7 +7,7 @@ Projet réalisé en deuxième année de licence informatique par :
 - Brian Longuet
 
 
-**Objectif**
+**Objectif :**
 
 Ce projet avait pour but de mettre en pratique les principes de la programmation orientée objet en Java, tout en consolidant nos compétences en conception logicielle. L’application développée est un jeu de puzzle à glissière :
 - Jouable avec ou sans interface graphique
